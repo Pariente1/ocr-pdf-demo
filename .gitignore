@@ -1,0 +1,12 @@
+# entornos virtuales
+.venv/
+env/
+# cachés Python
+__pycache__/
+*.py[cod]
+# salidas
+tmp_imgs/
+*.txt
+# IDEs
+.vscode/
+.idea/
